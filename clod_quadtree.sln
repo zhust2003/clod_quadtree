@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clod_quadtree.Plugins", "clod_quadtree.Plugins.csproj", "{33E49FD4-2622-EA74-EC39-927BE6B85CCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clod_quadtree", "clod_quadtree.csproj", "{B0712976-36E9-1DD3-4057-82BE9B848E50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clod_quadtree.Editor.Plugins", "clod_quadtree.Editor.Plugins.csproj", "{B9A4CABD-BE92-800A-F59F-7670F8AEDCD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33E49FD4-2622-EA74-EC39-927BE6B85CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E49FD4-2622-EA74-EC39-927BE6B85CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E49FD4-2622-EA74-EC39-927BE6B85CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E49FD4-2622-EA74-EC39-927BE6B85CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0712976-36E9-1DD3-4057-82BE9B848E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0712976-36E9-1DD3-4057-82BE9B848E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0712976-36E9-1DD3-4057-82BE9B848E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0712976-36E9-1DD3-4057-82BE9B848E50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9A4CABD-BE92-800A-F59F-7670F8AEDCD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A4CABD-BE92-800A-F59F-7670F8AEDCD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A4CABD-BE92-800A-F59F-7670F8AEDCD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A4CABD-BE92-800A-F59F-7670F8AEDCD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
